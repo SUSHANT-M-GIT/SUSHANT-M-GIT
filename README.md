@@ -4,14 +4,14 @@ Hi there 👋
 
 Nice meeting you, I'm **Sushant**  
 
-- 🎓 B.Tech CSE (6th Semester) – Reva University  
-- 💻 Software Developer (Fresher)  
+- 🎓 B.Tech CS & IT (6th Semester) – Reva University  
+- 💻 Software Developer (Fresher)  | DATA ANALYST
 - 🌱 Skilled in Full-Stack Development & Machine Learning  
 - 💬 Ask me about Web Development & REST APIs  
 - 📫 How to reach me: mishrasushant029@gmail.com  
 - 😄 Pronouns: He/Him  
 - 🎯 Currently seeking entry-level Software Engineering roles  
-
+-     Fresher with skills and fast learning abilities
 ---
 
 # 🌐 Socials:
