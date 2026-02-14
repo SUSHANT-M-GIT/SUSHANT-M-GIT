@@ -39,6 +39,4 @@ Nice meeting you, I'm **Sushant**
 
 # 📊 GitHub Stats:
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUSHANT-M-GIT&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SUSHANT-M-GIT&theme=dark)
