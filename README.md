@@ -11,7 +11,6 @@ Nice meeting you, I'm **Sushant**
 - 📫 How to reach me: mishrasushant029@gmail.com  
 - 😄 Pronouns: He/Him  
 - 🎯 Currently seeking entry-level Software Engineering roles  
--     Fresher with skills and fast learning abilities
 ---
 
 # 🌐 Socials:
