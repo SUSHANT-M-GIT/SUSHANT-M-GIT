@@ -25,7 +25,6 @@ Nice meeting you, I'm **Sushant**
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -33,6 +32,7 @@ Nice meeting you, I'm **Sushant**
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ---
 
