@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Mishra</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Apps</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable & Responsive Web Apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sushant-sm/">
@@ -16,20 +16,22 @@
 ---
 
 ## 💡 About Me
-✨ Passionate Full-Stack Developer focused on building real-world applications  
+✨ Passionate Full-Stack Developer focused on building real-world, scalable applications  
 
 - 🎓 B.Tech CS & IT (6th Semester) – Reva University  
-- 💻 Backend-focused developer (APIs, Auth, Database Design)  
-- 🔐 Strong in JWT Authentication & REST API development  
-- 🧠 Solid foundation in Data Structures & Problem Solving  
-- 🎯 Actively seeking Full Stack / SDE Internship opportunities  
+- 💻 Experienced in building **responsive frontend applications using React**  
+- 🔐 Strong in backend development (Node.js, Express) & **JWT authentication systems**  
+- 🔗 Skilled in designing and integrating **RESTful APIs**  
+- 🧠 Strong in debugging, problem-solving & writing clean, maintainable code  
+- 🤝 Comfortable working in **team-based and collaborative environments**  
+- 📌 Actively seeking Full Stack Development Internship opportunities  
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,git,github,postman,linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,c,git,github,postman,linux" />
 </p>
 
 ---
