@@ -1,43 +1,54 @@
-# 👋 Sushant Mishra
+<h1 align="center">Hi 👋, I'm Sushant Mishra</h1>
+<h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Apps</h3>
 
-🚀 Full-Stack MERN Developer | React • Node.js • MongoDB • REST APIs  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-sm)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/SUSHANT-M-GIT)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mishrasushant029@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushant-sm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SUSHANT-M-GIT">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mishrasushant029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💡 About Me
+✨ Passionate Full-Stack Developer focused on building real-world applications  
+
 - 🎓 B.Tech CS & IT (6th Semester) – Reva University  
-- 💻 Full-Stack Developer focused on scalable web applications  
-- 🔐 Strong in Authentication Systems, REST APIs & Backend Design  
-- 🧠 Good understanding of Data Structures & Problem Solving  
-- 📌 Seeking Full Stack / SDE Internship opportunities  
+- 💻 Backend-focused developer (APIs, Auth, Database Design)  
+- 🔐 Strong in JWT Authentication & REST API development  
+- 🧠 Solid foundation in Data Structures & Problem Solving  
+- 🎯 Actively seeking Full Stack / SDE Internship opportunities  
 
 ---
 
 ## ⚙️ Tech Stack
-**Frontend:** React.js, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, Linux  
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,c,git,github,postman,linux" />
+</p>
 
 ---
 
-## 🚀 Featured Project
+## 📊 GitHub Stats
 
-### 🔹 Task Management Web App (MERN)
-- Built full-stack app with JWT authentication  
-- Implemented REST APIs with complete CRUD operations  
-- Integrated MongoDB Atlas for scalable storage  
-- Deployed using Vercel (frontend) & Render (backend)  
-
-🔗 Live: https://task-management-app-woad-one.vercel.app/  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSHANT-M-GIT&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSHANT-M-GIT&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact
-📧 mishrasushant029@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sushant-sm  
-🔗 GitHub: https://github.com/SUSHANT-M-GIT  
+## 📫 Let's Connect
+
+📧 **Email:** mishrasushant029@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sushant-sm  
+💻 **GitHub:** https://github.com/SUSHANT-M-GIT  
+
+---
+
+⭐ *"Building scalable systems, one API at a time."*
