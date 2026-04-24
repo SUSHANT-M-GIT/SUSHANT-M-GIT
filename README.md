@@ -5,7 +5,7 @@ Hi there 👋
 Nice meeting you, I'm **Sushant**  
 
 - 🎓 B.Tech CS & IT (6th Semester) – Reva University  
-- 💻 Software Developer (Fresher)  | DATA ANALYST
+- 💻 Software Developer (Fresher)  |
 - 🌱 Skilled in Full-Stack Development & Machine Learning  
 - 💬 Ask me about Web Development & REST APIs  
 - 📫 How to reach me: mishrasushant029@gmail.com  
@@ -15,7 +15,7 @@ Nice meeting you, I'm **Sushant**
 
 # 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-533839344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-sm)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/SUSHANT-M-GIT)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mishrasushant029@gmail.com)
 
