@@ -16,15 +16,17 @@
 ---
 
 ## 💡 About Me
-✨ Passionate Full-Stack Developer focused on building real-world, scalable applications  
+✨ Full-Stack Developer focused on building scalable, real-world web applications  
 
 - 🎓 B.Tech CS & IT (6th Semester) – Reva University  
-- 💻 Experienced in building **responsive frontend applications using React**  
-- 🔐 Strong in backend development (Node.js, Express) & **JWT authentication systems**  
+- 💻 Experience in building **responsive web applications using React.js**  
+- 🔐 Strong in backend development (Node.js, Express) & **authentication systems**  
 - 🔗 Skilled in designing and integrating **RESTful APIs**  
-- 🧠 Strong in debugging, problem-solving & writing clean, maintainable code  
-- 🤝 Comfortable working in **team-based and collaborative environments**  
-- 📌 Actively seeking Full Stack Development Internship opportunities  
+- 🧠 Strong in **debugging, problem-solving, and code optimization**  
+- 🧪 Familiar with **testing, debugging, and improving application performance**  
+- 🤝 Comfortable working in **collaborative team environments**  
+- 📚 Continuously learning and adapting to new web technologies  
+- 📌 Seeking Full Stack Development Internship opportunities  
 
 ---
 
@@ -35,6 +37,8 @@
 </p>
 
 ---
+
+## 🚀 Projects
 
 ## 📊 GitHub Stats
 
@@ -53,4 +57,4 @@
 
 ---
 
-⭐ *"Building scalable systems, one API at a time."*
+⭐ *"Building scalable systems, improving performance, and learning every day."*
