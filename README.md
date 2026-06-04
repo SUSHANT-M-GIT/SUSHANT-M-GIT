@@ -26,7 +26,8 @@
 - 🧪 Familiar with **testing, debugging, and improving application performance**  
 - 🤝 Comfortable working in **collaborative team environments**  
 - 📚 Continuously learning and adapting to new web technologies  
-- 📌 Seeking Full Stack Development Internship opportunities  
+- 📌 Seeking Full Stack Development Internship opportunities
+-   build a portfolio website just to showcase my work - **https://sushantm-portfolio.vercel.app/**
 
 ---
 
