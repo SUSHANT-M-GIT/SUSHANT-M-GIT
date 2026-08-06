@@ -19,7 +19,7 @@
 
 ✨ Full-Stack Developer focused on building scalable, real-world web applications.
 
-- 🎓 B.Tech CS & IT (6th Semester) – Reva University
+- 🎓 B.Tech CS & IT (7th Semester) – Reva University
 - 💻 Experience in building **responsive web applications using React.js**
 - 🔐 Strong in backend development (Node.js, Express) & **authentication systems**
 - 🔗 Skilled in designing and integrating **RESTful APIs**
@@ -30,7 +30,6 @@
 - 🧪 Familiar with **testing, debugging, and improving application performance**
 - 🤝 Comfortable working in **collaborative team environments**
 - 📚 Always learning new technologies and improving my skills
-- 📌 Looking for **Full Stack Developer** and **Data Analyst Internship** opportunities
 - 🌐 Built a portfolio website to showcase my work – **https://sushantm-portfolio.vercel.app/**
 
 ---
