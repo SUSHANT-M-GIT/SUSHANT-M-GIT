@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushant Mishra</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | 📊 Aspiring Data Analyst | Building Scalable & Responsive Web Apps</h3>
+<h1 align="center">Hi 👋, I'm Sushant</h1>
+<h3 align="center">🚀 Software devlopement engineer| Building Scalable & Responsive Web Apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sushant-sm/">
@@ -38,24 +38,12 @@
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,git,github,postman,linux" />
+<img src="https://skillicons.dev/icons?i=react,mongodb,mysql,js,python,C++,git,github,postman" />
 </p>
 
 ### 📊 Data Analytics Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
 - 📈 Power BI
 - 📊 Microsoft Excel
-- 📝 Pandas
-- 🔢 NumPy
-- 🤖 Scikit-learn
-- 📉 Matplotlib
-- 📊 Seaborn
-
----
 
 ## 🚀 Projects
 
@@ -63,15 +51,6 @@
 - 🌐 Portfolio Website
 - 📊 Data Analysis & Machine Learning Projects
 - 📈 Interactive Dashboards using Power BI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSHANT-M-GIT&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSHANT-M-GIT&theme=tokyonight" />
-</p>
 
 ---
 
