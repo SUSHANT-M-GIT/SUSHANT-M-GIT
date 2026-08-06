@@ -1,61 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sushant Mishra</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable & Responsive Web Apps</h3>
+<h1 align="center">Hi 👋, I'm Sushant Mishra</h1> <h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable & Responsive Web Apps</h3> <p align="center"> <a href="https://www.linkedin.com/in/sushant-sm/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/SUSHANT-M-GIT"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:mishrasushant029@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> --- ## 💡 About Me ✨ Full-Stack Developer focused on building scalable, real-world web applications - 🎓 B.Tech CS & IT (6th Semester) – Reva University - 💻 Experience in building **responsive web applications using React.js** - 🔐 Strong in backend development (Node.js, Express) & **authentication systems** - 🔗 Skilled in designing and integrating **RESTful APIs** - 🧠 Strong in **debugging, problem-solving, and code optimization** - 🧪 Familiar with **testing, debugging, and improving application performance** - 📊 I also like working with data. I can make nice charts and dashboards with **Power BI**, and I clean and study data using **Pandas, NumPy, and SQL** - 📈 I like finding patterns in numbers and turning them into simple pictures that anyone can understand - 🤝 Comfortable working in **collaborative team environments** - 📚 Continuously learning and adapting to new web technologies - 📌 Seeking Full Stack Development Internship opportunities - build a portfolio website just to showcase my work - **https://sushantm-portfolio.vercel.app/** --- ## ⚙️ Tech Stack <p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,git,github,postman,linux" /> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sushant-sm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SUSHANT-M-GIT">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:mishrasushant029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+📊 Data Tools: Power BI, Pandas, NumPy, Matplotlib, SQL, DAX
 
----
+🚀 Projects
+📊 Credit Card Financial Dashboard
 
-## 💡 About Me
-✨ Full-Stack Developer focused on building scalable, real-world web applications  
+Made using Power BI, PostgreSQL, and DAX. I took customer and credit card data and turned it into an easy-to-read dashboard. It has two pages — one shows money stuff like spending and card types, and the other shows customer info like age and location. I used DAX to build small formulas like total spend, and I set it to refresh on its own so the numbers stay fresh.
 
-- 🎓 B.Tech CS & IT (6th Semester) – Reva University  
-- 💻 Experience in building **responsive web applications using React.js**  
-- 🔐 Strong in backend development (Node.js, Express) & **authentication systems**  
-- 🔗 Skilled in designing and integrating **RESTful APIs**  
-- 🧠 Strong in **debugging, problem-solving, and code optimization**  
-- 🧪 Familiar with **testing, debugging, and improving application performance**  
-- 🤝 Comfortable working in **collaborative team environments**  
-- 📚 Continuously learning and adapting to new web technologies  
-- 📌 Seeking Full Stack Development Internship opportunities
--   build a portfolio website just to showcase my work - **https://sushantm-portfolio.vercel.app/**
-
----
-
-## ⚙️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,python,java,git,github,postman,linux" />
-</p>
-
----
-
-## 🚀 Projects
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUSHANT-M-GIT&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSHANT-M-GIT&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-📧 **Email:** mishrasushant029@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sushant-sm  
-💻 **GitHub:** https://github.com/SUSHANT-M-GIT  
-
----
-
-⭐ *"Building scalable systems, improving performance, and learning every day."*
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SUSHANT-M-GIT&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSHANT-M-GIT&theme=tokyonight" /> </p> --- ## 📫 Let's Connect 📧 **Email:** mishrasushant029@gmail.com 🔗 **LinkedIn:** https://www.linkedin.com/in/sushant-sm 💻 **GitHub:** https://github.com/SUSHANT-M-GIT --- ⭐ *"Building scalable systems, improving performance, and learning every day."*
