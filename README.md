@@ -37,7 +37,7 @@
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,mongodb,mysql,js,python,C++,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=react,mongodb,mysql,js,python,C++,git,github,postman"/>
 </p>
 
 ### 📊 Data Analytics Tools
