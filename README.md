@@ -42,4 +42,4 @@
 
 ---
 
-📧 mishrasushant029@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio]([(https://about-me-rho-one.vercel.app/)])
+📧 mishrasushant029@gmail.com &nbsp;|&nbsp;
