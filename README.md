@@ -33,13 +33,4 @@
 
 ---
 
-## 🚀 Projects
-
-- 🎯 **Campus Event Finder** — Real-time MERN app with Socket.IO
-- 📊 **Credit Card Dashboard** — Power BI + PostgreSQL analytics
-- ✅ **TaskFlow** — Task manager with priorities & status tracking
-- 🏏 **Cricket Score Predictor** — ML model via Flask API
-
----
-
 📧 mishrasushant029@gmail.com &nbsp;|&nbsp;
