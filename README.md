@@ -17,11 +17,11 @@
 
 ## 💡 About Me
 
-- 🎓 B.Tech CS & IT – Reva University, Bangalore
-- 💻 Building full-stack web apps with React.js, Node.js & MongoDB
-- 📊 Learning Data Analytics — Power BI, SQL, Python, Excel
-- 🏏 Built an ML model to predict T20 cricket scores
-- 🌐 Portfolio → (https://about-me-rho-one.vercel.app/)
+* 🎓 B.Tech CS & IT – Reva University, Bangalore
+* 💻 Building full-stack web apps with React.js, Node.js & MongoDB
+* 📊 Learning Data Analytics — Power BI, SQL, Python, Excel
+* 🏏 Built an ML model to predict T20 cricket scores
+* 🌐 Portfolio → (https://about-me-rho-one.vercel.app/)
 
 ---
 
@@ -33,4 +33,6 @@
 
 ---
 
-📧 mishrasushant029@gmail.com &nbsp;|&nbsp;
+## 🌟 Project I’m Proud Of
+
+**Campus Event Finder & Manager** is one of the projects I’m most proud of because it goes beyond a basic CRUD application and brings together real-world full-stack concepts in a single platform. From secure authentication and role-based access to QR-based attendance, certificates, waitlists, real-time notifications, email automation, feedback, and organizer management, the project gave me hands-on experience in designing, developing, securing, and deploying a complete production-style web application. It reflects my interest in building practical solutions while continuously improving my skills across **React, TypeScript, Node.js, Express, MongoDB, authentication, APIs, and real-time systems**.
