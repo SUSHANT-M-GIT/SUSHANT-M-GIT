@@ -1,153 +1,60 @@
 ```md
 <div align="center">
 
-# `const developer = "Sushant";`
+# Hi 👋, I'm Sushant
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+%26+Data+Analytics+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG" />
+### Full Stack Developer | MERN Stack | Python & Data Analytics
 
-### `console.log("Welcome to my GitHub! 👋");`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Web+Applications;Exploring+Data+Analytics;Turning+Ideas+Into+Reality" />
 
 <p>
-  <a href="https://about-me-rho-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sushant-sm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mishrasushant029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://about-me-rho-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/sushant-sm/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:mishrasushant029@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-## `01. AboutMe.jsx`
+### 👨‍💻 About Me
 
-```jsx
-const Sushant = {
-  education: "B.Tech CS & IT | REVA University, Bangalore",
+- 🎓 B.Tech CS & IT – REVA University, Bangalore
+- 💻 Passionate about building full-stack web applications.
+- 📊 Exploring Data Analytics with Python, SQL, Power BI & Excel.
+- 🏏 Built a Machine Learning model for T20 cricket score prediction.
 
-  role: "Full Stack Developer",
+### 🛠️ Tech Stack
 
-  interests: [
-    "Web Development",
-    "MERN Stack",
-    "Python",
-    "Data Analytics",
-    "Machine Learning"
-  ],
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,git,github,postman"/>
+</p>
 
-  currentlyLearning: [
-    "Power BI",
-    "SQL",
-    "Python",
-    "Advanced Full Stack Development"
-  ],
+### 🚀 Featured Project
 
-  funFact: "I love turning complex ideas into practical applications."
-};
+**Campus Event Finder & Manager**
 
-export default Sushant;
-```
+A full-stack event management platform featuring secure authentication, role-based access, QR attendance, certificates, waitlists, real-time notifications and email automation.
+
+**Tech:** React, TypeScript, Node.js, Express & MongoDB
+
+🔗 [Live Project](https://c-e-s.vercel.app/)
 
 ---
-
-## `02. TechStack.js`
 
 <div align="center">
 
-### Languages & Development
+### 🤝 Let's Connect & Build Something Great!
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,express,mongodb,mysql,html,css,ts" />
+[Portfolio](https://about-me-rho-one.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/sushant-sm/) • [GitHub](https://github.com/SUSHANT-M-GIT) • [Email](mailto:mishrasushant029@gmail.com)
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
-
-</div>
-
----
-
-## `03. FeaturedProject.jsx`
-
-### 🚀 Campus Event Finder & Manager
-
-```jsx
-const Project = {
-  name: "Campus Event Finder & Manager",
-
-  type: "Full Stack Web Application",
-
-  frontend: ["React", "TypeScript"],
-
-  backend: ["Node.js", "Express.js"],
-
-  database: ["MongoDB"],
-
-  features: [
-    "Secure Authentication",
-    "Role-Based Access Control",
-    "QR-Based Attendance",
-    "Automated Certificates",
-    "Event Waitlist Management",
-    "Real-Time Notifications",
-    "Email Automation",
-    "Feedback & Organizer Management"
-  ],
-
-  status: "Deployed"
-};
-```
-
-**What makes it special?**
-
-A complete event management platform built beyond basic CRUD operations, bringing authentication, real-time systems, automation and event management together.
-
-🔗 **Live Project:** https://c-e-s.vercel.app/
-
----
-
-## `04. OtherInterests.py`
-
-```python
-interests = {
-    "Machine Learning": "T20 Cricket Score Prediction",
-    "Data Analytics": ["Power BI", "SQL", "Excel", "Python"],
-    "Development": "Building practical full-stack applications"
-}
-
-for interest in interests:
-    print(f"Exploring: {interest}")
-```
-
----
-
-## `05. ConnectWithMe.js`
-
-```javascript
-const connect = {
-  portfolio: "https://about-me-rho-one.vercel.app/",
-  linkedin: "https://www.linkedin.com/in/sushant-sm/",
-  github: "https://github.com/SUSHANT-M-GIT",
-  email: "mishrasushant029@gmail.com"
-};
-
-console.log("Let's build something amazing together! 🚀");
-```
-
-<div align="center">
-
-<a href="https://about-me-rho-one.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-### `while(alive) { keepLearning(); keepBuilding(); keepGrowing(); }`
-
-**Thanks for visiting my GitHub! 💙**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer"/>
 
 </div>
 ```
