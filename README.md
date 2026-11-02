@@ -1,40 +1,153 @@
-<h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN · Python · Data Analytics</h3>
+```md
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sushant-sm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SUSHANT-M-GIT">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:mishrasushant029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# `const developer = "Sushant";`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+%26+Data+Analytics+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG" />
 
-## 💡 About Me
-
-* 🎓 B.Tech CS & IT – Reva University, Bangalore
-* 💻 Building full-stack web apps with React.js, Node.js & MongoDB
-* 📊 Learning Data Analytics — Power BI, SQL, Python, Excel
-* 🏏 Built an ML model to predict T20 cricket scores
-* 🌐 Portfolio → (https://about-me-rho-one.vercel.app/)
-
----
-
-## ⚙️ Tech Stack
+### `console.log("Welcome to my GitHub! 👋");`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=C++,java,react,nodejs,mongodb,mysql,js,python,git,github,postman"/>
+  <a href="https://about-me-rho-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sushant-sm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mishrasushant029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+</div>
 
 ---
 
-## 🌟 Project I’m Proud Of
+## `01. AboutMe.jsx`
 
-**Campus Event Finder & Manager** is one of the projects I’m most proud of because it goes beyond a basic CRUD application and brings together real-world full-stack concepts in a single platform. From secure authentication and role-based access to QR-based attendance, certificates, waitlists, real-time notifications, email automation, feedback, and organizer management, the project gave me hands-on experience in designing, developing, securing, and deploying a complete production-style web application. It reflects my interest in building practical solutions while continuously improving my skills across **React, TypeScript, Node.js, Express, MongoDB, authentication, APIs, and real-time systems**.  
+```jsx
+const Sushant = {
+  education: "B.Tech CS & IT | REVA University, Bangalore",
 
-**https://c-e-s.vercel.app/**
+  role: "Full Stack Developer",
+
+  interests: [
+    "Web Development",
+    "MERN Stack",
+    "Python",
+    "Data Analytics",
+    "Machine Learning"
+  ],
+
+  currentlyLearning: [
+    "Power BI",
+    "SQL",
+    "Python",
+    "Advanced Full Stack Development"
+  ],
+
+  funFact: "I love turning complex ideas into practical applications."
+};
+
+export default Sushant;
+```
+
+---
+
+## `02. TechStack.js`
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,express,mongodb,mysql,html,css,ts" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+
+</div>
+
+---
+
+## `03. FeaturedProject.jsx`
+
+### 🚀 Campus Event Finder & Manager
+
+```jsx
+const Project = {
+  name: "Campus Event Finder & Manager",
+
+  type: "Full Stack Web Application",
+
+  frontend: ["React", "TypeScript"],
+
+  backend: ["Node.js", "Express.js"],
+
+  database: ["MongoDB"],
+
+  features: [
+    "Secure Authentication",
+    "Role-Based Access Control",
+    "QR-Based Attendance",
+    "Automated Certificates",
+    "Event Waitlist Management",
+    "Real-Time Notifications",
+    "Email Automation",
+    "Feedback & Organizer Management"
+  ],
+
+  status: "Deployed"
+};
+```
+
+**What makes it special?**
+
+A complete event management platform built beyond basic CRUD operations, bringing authentication, real-time systems, automation and event management together.
+
+🔗 **Live Project:** https://c-e-s.vercel.app/
+
+---
+
+## `04. OtherInterests.py`
+
+```python
+interests = {
+    "Machine Learning": "T20 Cricket Score Prediction",
+    "Data Analytics": ["Power BI", "SQL", "Excel", "Python"],
+    "Development": "Building practical full-stack applications"
+}
+
+for interest in interests:
+    print(f"Exploring: {interest}")
+```
+
+---
+
+## `05. ConnectWithMe.js`
+
+```javascript
+const connect = {
+  portfolio: "https://about-me-rho-one.vercel.app/",
+  linkedin: "https://www.linkedin.com/in/sushant-sm/",
+  github: "https://github.com/SUSHANT-M-GIT",
+  email: "mishrasushant029@gmail.com"
+};
+
+console.log("Let's build something amazing together! 🚀");
+```
+
+<div align="center">
+
+<a href="https://about-me-rho-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+### `while(alive) { keepLearning(); keepBuilding(); keepGrowing(); }`
+
+**Thanks for visiting my GitHub! 💙**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+
+</div>
+```
