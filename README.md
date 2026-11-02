@@ -3,9 +3,9 @@
 
 # Hi 👋, I'm Sushant
 
-### Full Stack Developer | MERN Stack | Python & Data Analytics
+### Full Stack Developer | Data Analytics | Python & ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Web+Applications;Exploring+Data+Analytics;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Full+Stack+Applications;Exploring+Data+Analytics;Learning+Machine+Learning;Turning+Ideas+Into+Reality" />
 
 <p>
 <a href="https://about-me-rho-one.vercel.app/">
@@ -26,9 +26,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CS & IT – REVA University, Bangalore
-- 💻 Passionate about building full-stack web applications.
+- 💻 Passionate about Full Stack Development (MERN).
 - 📊 Exploring Data Analytics with Python, SQL, Power BI & Excel.
-- 🏏 Built a Machine Learning model for T20 cricket score prediction.
+- 🩺 Built Medi Buddy, a healthcare-focused full-stack application.
+- 🏏 Developed an ML model for T20 cricket score prediction.
 
 ### 🛠️ Tech Stack
 
@@ -36,15 +37,17 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,git,github,postman"/>
 </p>
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-**Campus Event Finder & Manager**
+**🩺 Medi Buddy**
 
-A full-stack event management platform featuring secure authentication, role-based access, QR attendance, certificates, waitlists, real-time notifications and email automation.
+A healthcare-focused full-stack platform featuring doctor appointments, digital prescriptions, medicine price comparison and AI-powered assistance.
 
-**Tech:** React, TypeScript, Node.js, Express & MongoDB
+🔗 [GitHub Repository](https://github.com/SUSHANT-M-GIT/mediBuddy)
 
-🔗 [Live Project](https://c-e-s.vercel.app/)
+**🏏 T20 Cricket Score Prediction**
+
+A Machine Learning project focused on predicting T20 cricket scores using Python.
 
 ---
 
