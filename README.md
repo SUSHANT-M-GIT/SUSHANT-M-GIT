@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi 👋, I'm Sushant
@@ -60,4 +59,3 @@ A Machine Learning project focused on predicting T20 cricket scores using Python
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer"/>
 
 </div>
-```
