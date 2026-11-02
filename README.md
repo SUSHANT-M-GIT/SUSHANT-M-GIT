@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Data Analytics | Python & ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Full+Stack+Applications;Exploring+Data+Analytics;Learning+Machine+Learning;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Full+Stack+Applications;Exploring+Data+Analytics;Learning+Machine+Learning;Turning+Ideas+Into+Reality;Creating+NewStyle+Themed+Projects" />
 
 <p>
 <a href="https://about-me-rho-one.vercel.app/">
@@ -36,19 +36,15 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,git,github,postman"/>
 </p>
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-**🩺 Medi Buddy**
+**Campus Event Finder & Manager**
 
-A healthcare-focused full-stack platform featuring doctor appointments, digital prescriptions, medicine price comparison and AI-powered assistance.
+A full-stack event management platform featuring secure authentication, role-based access, QR-based attendance, certificates, waitlists, real-time notifications and email automation.
 
-🔗 [GitHub Repository](https://github.com/SUSHANT-M-GIT/mediBuddy)
+**Tech:** React, TypeScript, Node.js, Express & MongoDB
 
-**🏏 T20 Cricket Score Prediction**
-
-A Machine Learning project focused on predicting T20 cricket scores using Python.
-
----
+🔗 [Live Project](https://c-e-s.vercel.app/)
 
 <div align="center">
 
